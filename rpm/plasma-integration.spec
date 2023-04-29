@@ -48,6 +48,7 @@ Requires:  opt-kf5-kcoreaddons
 Requires:  opt-kf5-ki18n
 Requires:  opt-kf5-kiconthemes
 Requires:  opt-kf5-kjobwidgets
+Requires:  opt-kf5-kio-gui
 Requires:  opt-kf5-kio-file-widgets
 Requires:  opt-kf5-kio-widgets
 Requires:  opt-kf5-knotifications
